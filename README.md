@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruuffian
 - 👀 I’m interested in finding a job outside the resturaunt industry :(
-- 🌱 I’m currently learning JavaScript and TypeScript
+- 🌱 I’m currently learning C and Python
 
 
 <!---
