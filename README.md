@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruuffian
-- 👀 I’m interested in finding a job outside the resturaunt industry :(
+- 👀 I'm interested in anything programming or math related.
 - 🌱 I’m currently learning C and Python
 
 
