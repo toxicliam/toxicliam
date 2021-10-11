@@ -18,4 +18,7 @@ Anyways, heres some music I've been listening to recently::
 ![Because the Internet by Childish Gambino](resources/because-the-internet.png)
 ![The Off-Season by J.Cole](resources/off-season.png)
 ![Kids See Ghosts by Various Artists](resources/kids-see-ghosts.png)
-![The Melodic Blue by Baby Keem]()
+![The Melodic Blue by Baby Keem](resources/the-melodic-blue.png)
+![Montero by Lil Nas X](resources/montero.png)
+![Sadnecessary by Milky Chance](resources/sadnecessary.png)
+![Blonde by Frank Ocean](resources/blonde.png)
