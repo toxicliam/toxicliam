@@ -3,8 +3,9 @@ Hey everyone, my name is Liam, also known as ruuffian. I'm a Math and Computer S
 
 If you need to contact me, hit me up on discord @ruuffian#2919 or at my email ruuffian@gmail.com
 
-Anyways, heres some music I've been listening to recently::
+Anyways, heres some music I highly reccomend you listen to
 
+### Albums
 
 ![Isolation by Kali Uchis](resources/isolation.png)
 ![Graduation by Kanye](resources/graduation.png)
