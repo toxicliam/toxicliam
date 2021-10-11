@@ -14,7 +14,4 @@ Anyways, heres some music I've been listening to recently::
 ![Favourite Worst Nightmare by Arctic Monkeys](resources/favourite-worst-nightmare.png)
 ![good kid, m.A.A.d city by Kendrick Lamar](resources/good-kid.png)
 ![Flower Boy by Tyler the Creator](resources/flower-boy.png)
-![Because the Internet by Childish Gambino](resources/because-the-internet.png)
 ![The Melodic Blue by Baby Keem](resources/the-melodic-blue.png)
-![Montero by Lil Nas X](resources/montero.png)
-![Blonde by Frank Ocean](resources/blonde.png)
