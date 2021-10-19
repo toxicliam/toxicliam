@@ -3,7 +3,7 @@ Hey everyone, my name is Liam, also known as ruuffian. I'm a Math and Computer S
 
 If you need to contact me, hit me up on Discord @ruuffian#2919 or at my email ruuffian@gmail.com
 
-Anyways, heres some music I highly reccomend you listen to
+Anyways, heres some music I highly recomend you listen to
 
 ### Albums
 
