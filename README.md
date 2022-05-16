@@ -8,6 +8,8 @@ Anyways, heres some music I highly recomend you listen to
 ### Albums
 
 ![Graduation by Kanye](resources/graduation.png)
+![The Off-Season by J. Cole](resources/off-season.png)
+![Dreamland by Glass Animals](resources/dreamland.png)
 ![DAMN by Kendrick Lamar](resources/kendrick-damn.png)
 ![Man on the Moon 3 by Kid Cudi](resources/man-on-the-moon-3.png)
 ![Is This It by The Strokes](resources/is-this-it.png)
