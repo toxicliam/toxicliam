@@ -7,7 +7,6 @@ Anyways, heres some music I highly recomend you listen to
 
 ### Albums
 
-![Isolation by Kali Uchis](resources/isolation.png)
 ![Graduation by Kanye](resources/graduation.png)
 ![DAMN by Kendrick Lamar](resources/kendrick-damn.png)
 ![Man on the Moon 3 by Kid Cudi](resources/man-on-the-moon-3.png)
