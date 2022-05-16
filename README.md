@@ -14,5 +14,5 @@ Anyways, heres some music I highly recomend you listen to
 ![Is This It by The Strokes](resources/is-this-it.png)
 ![Favourite Worst Nightmare by Arctic Monkeys](resources/favourite-worst-nightmare.png)
 ![good kid, m.A.A.d city by Kendrick Lamar](resources/good-kid.png)
-![Flower Boy by Tyler the Creator](resources/flower-boy.png)
+![Mr. Morals & The Big Stepper by Tyler the Creator](resources/mister-morale.png)
 ![The Melodic Blue by Baby Keem](resources/the-melodic-blue.png)
