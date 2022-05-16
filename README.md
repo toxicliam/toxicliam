@@ -7,7 +7,7 @@ Anyways, heres some music I highly recomend you listen to
 
 ### Albums
 
-![Mr. Morale & the Big Stepper by Kendrick Lamar](resources/mr-morale.png)
+![Mr. Morale & the Big Stepper by Kendrick Lamar](resources/mister-morale.png)
 ![Graduation by Kanye](resources/graduation.png)
 ![DAMN by Kendrick Lamar](resources/kendrick-damn.png)
 ![Man on the Moon 3 by Kid Cudi](resources/man-on-the-moon-3.png)
