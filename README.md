@@ -12,7 +12,7 @@ Anyways, heres some music I highly recomend you listen to
 ![DAMN by Kendrick Lamar](resources/damn.png)
 ![Man on the Moon 3 by Kid Cudi](resources/motm3.png)
 ![Is This It by The Strokes](resources/is-this-it.png)
-![Favourite Worst Nightmare by Arctic Monkeys](resources/montero.png)
+![Favourite Worst Nightmare by Arctic Monkeys](resources/off-season.png)
 ![good kid, m.A.A.d city by Kendrick Lamar](resources/gkmc.png)
 ![Man on the Moon 3 by Kid Cudi](resources/motm1.png)
 ![The Melodic Blue by Baby Keem](resources/melodic-blue.png)
